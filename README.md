@@ -16,7 +16,7 @@ Una vez instalado, podrás continuar en el siguiente punto.
 
 ¿Cómo ejecuto la herramienta?
 ======
-Pâra empezar, tras ejecutar la herramienta, veremos lo siguiente:
+Para empezar, tras ejecutar la herramienta, veremos lo siguiente:
 
 <p align="center">
 <img src="Images/first.png"
